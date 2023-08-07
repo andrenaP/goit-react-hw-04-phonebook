@@ -1,0 +1,6 @@
+.ContactAnyInputLabel {
+  display: flex;
+  gap: 5px;
+  flex-direction: column;
+  width: 200px;
+}
